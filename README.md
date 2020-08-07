@@ -1,1 +1,1 @@
-# [AUST EEE](austeee.github.io)
+ [AUST EEE](https://austeee.github.io/)
